@@ -5,7 +5,7 @@ This folder contains code, data, and plots for krigingand clustering for differe
 * **data**: This folder has raw/original data, processed data, and combined data:
   * processed data: `9_full_sensor_spike_data_processed.csv`
   * original/raw data:`9_full_sensor_spike_original.xlsx`
-  * combined data:`combined_data_all_time_5spikes.csv`
+
 
 * **plots**: This folder saves all plots after running the code.
 
